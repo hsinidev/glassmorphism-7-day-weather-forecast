@@ -3,7 +3,7 @@
 **Glass Weather Forecast** is a visually stunning, client-side web application that provides precise 7-day weather forecasts. It features a modern "Glassmorphism" UI set against an immersive, animated galaxy background that subtly reacts to weather conditions.
 
 ## 🚀 LIVE DEMO
-[**Click here to view live: doodax.com**](https://doodax.com)
+[**Click here to view live: doodax.com**](https://doodax.com/tools/glassmorphism-7-day-weather-forecast/index.html)
 
 ---
 
