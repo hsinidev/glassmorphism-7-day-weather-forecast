@@ -1,0 +1,5 @@
+{
+  "name": "Glassmorphism 7-Day Weather Forecast",
+  "description": "A visually stunning, client-side web application that provides a 7-day weather forecast. Features a 'glassmorphism' UI and an animated gradient background that dynamically changes based on the current weather conditions.",
+  "requestFramePermissions": []
+}
